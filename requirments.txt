@@ -1,0 +1,6 @@
+streamlit
+OpenAI
+SQLDatabase
+create_sql_query_chain
+ChatOpenAI
+os
